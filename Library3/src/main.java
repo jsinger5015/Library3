@@ -5,5 +5,5 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("HEllo People of this crazy world!");
 	}
-
+	
 }
